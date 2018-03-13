@@ -408,6 +408,9 @@ https://github.com/junedomingo/movieapp
 * React Native Starter Kit
 https://github.com/mcnamee/react-native-starter-app
 
+* **虎扑论坛客户端**
+https://github.com/MelonRice/ReactNative-HupuJRS
+
 ## 图书
 * 《React Native入门与实战》
 http://item.jd.com/11844102.html
